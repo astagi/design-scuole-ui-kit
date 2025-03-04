@@ -1,4 +1,4 @@
-name: Release design-ui-kit
+name: Release design-scuole-ui-kit
 on:
   workflow_dispatch:
   push:
